@@ -93,4 +93,4 @@ After completing this lab you will be able to:
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing.
+Free usage for educational purposes only.
