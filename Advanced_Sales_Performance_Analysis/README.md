@@ -91,4 +91,4 @@ The currency symbol is assumed; check the cell formats in the workbook.
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing.
+Use for educational purposes only.
